@@ -2,4 +2,4 @@ TIC TAC TOE
 
 A Game By: Alicia Poindexter
 
-Deployed at 
+Deployed at http://ampoindexter.github.io/ticTacToe/
